@@ -73,7 +73,7 @@
 </p>
 
 <p align="center">
-  <!-- Streak stats (separate service, often more stable) -->
+  <!-- Streak stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=djgang013&theme=tokyonight" height="180px" />
 </p>
 
@@ -82,8 +82,9 @@
 ## 🏆 Achievements
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=djgang013&theme=dracula&margin-w=10&margin-h=10" alt="GitHub Profile Trophy" />
+  <!-- Alternative trophies service -->
+  <a href="https://github.com/lucthienphong1120/github-trophies">
+    <img src="https://github-trophies.vercel.app/?username=djgang013&theme=gruvbox&margin-w=10&margin-h=10" alt="GitHub Trophies" />
   </a>
 </p>
 
