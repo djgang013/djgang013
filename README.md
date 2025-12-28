@@ -65,16 +65,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- Main stats card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=djgang013&show_icons=true&theme=tokyonight" height="180px" />
-
-  <!-- Top languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=djgang013&layout=compact&theme=tokyonight" height="180px" />
+  <!-- Combined stats image (alternative to github-readme-stats) -->
+  <img src="https://github-stats-alpha.vercel.app/api?username=djgang013&cc=000000&tc=37b1f5&ic=ffffff&bc=000000" height="180px" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <!-- Streak stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=djgang013&theme=tokyonight" height="180px" />
+  <!-- Streak stats (already working for you) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=djgang013&theme=tokyonight" height="180px" alt="GitHub Streak Stats" />
 </p>
 
 ---
