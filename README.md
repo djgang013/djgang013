@@ -26,9 +26,8 @@
 ## 🌟 Featured Project: GAMESFLIX
 
 <p align="center">
-  <a href="https://github.com/djgang013/gameflix-frontend">
-    <img src="https://github.com/user-attachments/assets/24e5b607-4dd1-4d5a-84ed-7734e4883272" alt="Gamesflix Hero" width="100%" style="border-radius: 10px;"/>
-  </a>
+ <img width="1886" height="901" alt="Screenshot 2026-03-08 003536" src="https://github.com/user-attachments/assets/50b6efd2-049c-4662-a4e6-658655e11071" />
+
 </p>
 
 **A premium, full-stack gaming platform inspired by the UI/UX of Netflix and Steam.**
